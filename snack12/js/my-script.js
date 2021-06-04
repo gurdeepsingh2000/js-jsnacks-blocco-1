@@ -7,7 +7,7 @@ CI SERVONO 2 LISTE
 GATSBY VUOLE GENERARE UNA FALSA LISTA DI 3 INVITATI
 */
 
-var output = document.getElementById('surnames');
+var output = document.getElementById('lista');
 
 listName = ['Marco', 'Andrea','Luigi', 'Fabio' , 'Patrizia' , 'Alessio'];
 listSurname = ['Rossi', 'Verdi' ,'Gialli', 'Ferrari', 'Moreno', 'Bianchi'];
